@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="films_name">Nama Film</string>
+    <string name="detail">Detail</string>
+    <string name="tonton">Tonton</string>
+    <string name="unduh">Download</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+</resources>

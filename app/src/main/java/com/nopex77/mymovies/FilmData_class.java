@@ -1,19 +1,21 @@
-package com.nopex77.mymovies;
+package film;
+
+import com.nopex77.mymovies.R;
 
 import java.util.ArrayList;
 
 public class FilmData_class {
     private static String[] filmNames = {
-            "TWD Season 1",
-            "TWD Season 2",
-            "TWD Season 3",
-            "TWD Season 4",
-            "TWD Season 5",
-            "TWD Season 6",
-            "TWD Season 7",
-            "TWD Season 8",
-            "TWD Season 9",
-            "TWD Season 10"
+            "The Walking Dead Season 1",
+            "The Walking Dead Season 2",
+            "The Walking Dead Season 3",
+            "The Walking Dead Season 4",
+            "The Walking Dead Season 5",
+            "The Walking Dead Season 6",
+            "The Walking Dead Season 7",
+            "The Walking Dead Season 8",
+            "The Walking Dead Season 9",
+            "The Walking Dead Season 10"
     };
 
     private static String[] filmDetails = {

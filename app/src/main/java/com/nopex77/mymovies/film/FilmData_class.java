@@ -1,6 +1,4 @@
-package film;
-
-import com.nopex77.mymovies.R;
+package com.nopex77.mymovies;
 
 import java.util.ArrayList;
 
